@@ -1,10 +1,4 @@
-# 🚀 VisionX Season 2
-
-**Organized by:** MSC-PRPCEM, Global AI Amravati, and P.R. Pote Patil College of Engineering and Management
-
-**Event Type:** Online Quiz Competition (Every Monday)
-
-**Date & Time:** 23rd August – 27th September 2026
+#  Week 5 Quiz - Data Structures
 
 ---
 
